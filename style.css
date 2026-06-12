@@ -20,7 +20,8 @@ header h2 { font-size: 1.5rem; color: #5c4033; margin-bottom: 0.5rem; font-style
 .detail-page h1 { font-size: 2rem; color: #2c1810; margin-bottom: 0.5rem; }
 .pages { color: #888; font-size: 0.9rem; margin-bottom: 2rem; }
 .summary { margin-bottom: 2rem; font-size: 0.95rem; color: #555; line-height: 1.8; }
-.summary p { margin-bottom: 1rem; }
+.summary p { margin-bottom: 1.2rem; text-align: justify; }
+.summary p:first-of-type { margin-top: 0; }
 .illustrations { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee; }
 .plate { margin-bottom: 2rem; }
 .plate img { max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
